@@ -24,7 +24,23 @@ En esta guía se desarrollan tres tipos de actividades para Educación Infantil,
 
 ## Hora del código
 ### Documentos sobre esta iniciativa
-
 [Cartel con recursos para Infantil, 1º, 2º y 3er ciclo de Primaria en PDF](https://github.com/lobotic/GuiasEducativas/blob/main/Hora%20Del%20Codigo/HORA%20DEL%20C%C3%93DIGO.pdf)
 
 [Cartel con recursos para Infantil, 1º, 2º y 3er ciclo de Primaria en jpg](https://github.com/lobotic/GuiasEducativas/blob/main/Hora%20Del%20Codigo/HORA%20DEL%20C%C3%93DIGO.jpg)
+
+
+## Día de Ada Lovelace
+### Documentos sobre esta iniciativa
+
+[Cartel con recursos para Infantil, 1º, 2º y 3er ciclo de Primaria en PDF](https://github.com/lobotic/GuiasEducativas/blob/main/Ada%20Lovelace%20Day/D%C3%8DA%20ADA%20LOVELACE.pdf)
+
+[Cartel con recursos para Infantil, 1º, 2º y 3er ciclo de Primaria en png](https://github.com/lobotic/GuiasEducativas/blob/main/Ada%20Lovelace%20Day/D%C3%8DA%20ADA%20LOVELACE.png)
+
+[Actividades Infantil](https://github.com/lobotic/GuiasEducativas/blob/main/Ada%20Lovelace%20Day/ALD_Infantil.pdf)
+
+[Actividades Primer Ciclo](https://github.com/lobotic/GuiasEducativas/blob/main/Ada%20Lovelace%20Day/ALD_1erCiclo.pdf)
+
+[Actividades Segundo Ciclo](https://github.com/lobotic/GuiasEducativas/blob/main/Ada%20Lovelace%20Day/ALD_2ºCiclo.pdf)
+
+[Actividades Tercer Ciclo](https://github.com/lobotic/GuiasEducativas/blob/main/Ada%20Lovelace%20Day/ALD_3erCiclo.pdf)
+
