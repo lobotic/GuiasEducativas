@@ -22,6 +22,8 @@ En esta guía se desarrollan tres tipos de actividades para Educación Infantil,
 
 [Proyecto de Scratch para jugar con las mecánicas de la actividad](https://scratch.mit.edu/projects/40951770)
 
+[Infografía imprimible](https://github.com/lobotic/GuiasEducativas/blob/main/Alphabot/ALPHABOT%2C%20LA%20ROBOT.pdf)
+
 ## Hora del código
 ### Documentos sobre esta iniciativa
 [Cartel con recursos para Infantil, 1º, 2º y 3er ciclo de Primaria en PDF](https://github.com/lobotic/GuiasEducativas/blob/main/Hora%20Del%20Codigo/HORA%20DEL%20C%C3%93DIGO.pdf)
