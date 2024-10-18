@@ -51,3 +51,5 @@ En esta guía se desarrollan tres tipos de actividades para Educación Infantil,
 
 [Actividad Mensajes secretos 1](https://github.com/lobotic/GuiasEducativas/blob/main/hackea%20halloween/HALLOWEEN%20PC-Mensajes%20Secretos%201.pdf)
 
+[Actividad Mensajes secretos 2 (un poco más difícil)](https://github.com/lobotic/GuiasEducativas/blob/main/hackea%20halloween/HALLOWEEN%20PC-Mensajes%20Secretos%202.pdf)
+
