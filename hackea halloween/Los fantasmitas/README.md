@@ -1,4 +1,4 @@
-Los fantasmitas es una actividad para comprender de forma desenchufada (unplugged) el concepto de variable en programación. 
+Los [fantasmitas](https://github.com/lobotic/GuiasEducativas/blob/main/hackea%20halloween/Los%20fantasmitas/HALLOWEEN%20PC-Los%20fantasmitas.pdf) es una actividad para comprender de forma desenchufada (unplugged) el concepto de variable en programación. 
 
 Una variable en informática es como una caja con un nombre, donde guardamos información que podemos necesitar más tarde. Dentro de la caja podemos poner números, palabras u otros datos, y cada vez que queramos usar esa información, solo tenemos que decir el nombre de la caja para ver lo que hay dentro. Además, lo que guardamos en la variable puede cambiar mientras el programa funciona. 
 
