@@ -46,7 +46,7 @@ En esta guía se desarrollan tres tipos de actividades para Educación Infantil,
 
 [Actividades Tercer Ciclo](https://github.com/lobotic/GuiasEducativas/blob/main/Ada%20Lovelace%20Day/ALD_3erCiclo.pdf)
 
-## HAckea Halloween
+## Hackea Halloween
 ### Documentos sobre esta iniciativa
 
 [HACKEA HALLOWEEN](https://github.com/lobotic/GuiasEducativas/blob/main/hackea%20halloween/HALLOWEEN%20PC.pdf)
