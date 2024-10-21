@@ -1,7 +1,7 @@
 # ClasificaBots en Acción: los tamaños.
-# Nivel educativo: Educación Infantil.
-# Áreas Curriculares: Área II. Descubrimiento y exploración del entorno.
-# Temporalización: 1 sesión de 45 minutos (en cualquier trimestre).
+## Nivel educativo: Educación Infantil.
+## Áreas Curriculares: Área II. Descubrimiento y exploración del entorno.
+## Temporalización: 1 sesión de 45 minutos (en cualquier trimestre).
 
 ## Descripción
 En esta actividad de 45 minutos el alumnado clasificará objetos de la vida cotidiana siguiendo un algoritmo con condicionales desplazándose por un tablero o alfombrilla creada en el suelo.
