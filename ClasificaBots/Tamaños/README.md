@@ -45,3 +45,28 @@ Dependiendo de las características de tu alumnado o de lo que prefieras trabaja
 
 ![Recorrido sugerido](https://github.com/lobotic/GuiasEducativas/blob/main/ClasificaBots/Tama%C3%B1os/recorridosugerido.png)
 
+
+# Evaluación
+
+Los criterios de evaluación corresponden a las competencias específicas del Área II. Descubrimiento y exploración del entorno correspondientes al segundo ciclo de Educación Infantil:
+
+- Identificar las características de materiales, objetos y establecer relaciones entre ellos, mediante la exploración, la manipulación sensorial, el manejo de herramientas sencillas y el desarrollo de destrezas lógico-matemáticas.
+
+- Desarrollar los procedimientos del método científico, a través de procesos de observación y manipulación de objetos, para iniciarse en la interpretación del entorno y responder a las situaciones y retos que se plantean.
+Criterios de Evaluación
+
+ - 1.1. Establece distintas relaciones entre los objetos a partir de sus tamaños, mostrando curiosidad e interés.
+
+ - 1.2. Emplea cuantificadores básicos: "grande", "mediano", "pequeño",  "más grande", "más pequeño", "más pesado" o "menos pesado"...
+                                         
+ - 2.3. Plantea ideas acerca del tamaño de los objetos comprobándolas a través de la manipulación y la actuación sobre ellos.
+
+ - 2.4. Utiliza diagramas de flujo y condicionales sencillos para la toma de decisiones de manera autónoma a la hora de clasificar objetos.
+
+
+
+
+
+
+
+
