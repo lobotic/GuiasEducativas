@@ -55,13 +55,13 @@ Los criterios de evaluación corresponden a las competencias específicas del Á
 - Desarrollar los procedimientos del método científico, a través de procesos de observación y manipulación de objetos, para iniciarse en la interpretación del entorno y responder a las situaciones y retos que se plantean.
 Criterios de Evaluación
 
- - 1.1. Establece distintas relaciones entre los objetos a partir de sus tamaños, mostrando curiosidad e interés.
+  - 1.1. Establece distintas relaciones entre los objetos a partir de sus tamaños, mostrando curiosidad e interés.
 
- - 1.2. Emplea cuantificadores básicos: "grande", "mediano", "pequeño",  "más grande", "más pequeño", "más pesado" o "menos pesado"...
+  - 1.2. Emplea cuantificadores básicos: "grande", "mediano", "pequeño",  "más grande", "más pequeño", "más pesado" o "menos pesado"...
                                          
- - 2.3. Plantea ideas acerca del tamaño de los objetos comprobándolas a través de la manipulación y la actuación sobre ellos.
+  - 2.3. Plantea ideas acerca del tamaño de los objetos comprobándolas a través de la manipulación y la actuación sobre ellos.
 
- - 2.4. Utiliza diagramas de flujo y condicionales sencillos para la toma de decisiones de manera autónoma a la hora de clasificar objetos.
+  - 2.4. Utiliza diagramas de flujo y condicionales sencillos para la toma de decisiones de manera autónoma a la hora de clasificar objetos.
 
 
 
