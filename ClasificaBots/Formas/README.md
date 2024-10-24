@@ -54,6 +54,8 @@ Dependiendo de las características de tu alumnado o de lo que prefieras trabaja
 - [Plantillas para el recorrido](https://github.com/lobotic/GuiasEducativas/blob/main/ClasificaBots/Formas/ClasificaBots-Formas-PlantillaSuelo.pdf) (o cinta adhesiva de color diferente al del suelo para marcar el recorrido en el suelo).
 - Tres contenedores (por ejemplo cajas de cartón).
 - Objetos cotidianos.
+
+  
   ![Propuesta de recorrido](https://github.com/lobotic/GuiasEducativas/blob/main/ClasificaBots/Formas/ClasificaBots-Formas-Recorrido.png)                                    
 
 
